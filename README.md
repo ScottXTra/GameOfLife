@@ -14,6 +14,7 @@ I took the afternoon to implement the legendary Game Of Life by John Conway to d
 
 > bin/run
 
-
+# Demo 
+![alt text](https://github.com/ScottXTra/GameOfLife/blob/master/gameOfLife.gif)
 
 
